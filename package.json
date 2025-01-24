@@ -1,0 +1,12 @@
+{
+  "name": "jonx",
+  "version": "0.0.1",
+  "description": "npm library to compete against express.js",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "code camp",
+  "license": "ISC"
+}
